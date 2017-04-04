@@ -1,0 +1,17 @@
+# Node
+node_modules
+
+# Dist
+build/**
+.tmp/**
+
+# Logs
+logs
+logs/*.log
+npm-debug.log*
+
+#OSX
+.DS_Store
+
+# Idea
+.idea
